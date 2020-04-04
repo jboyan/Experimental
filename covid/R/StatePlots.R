@@ -5,7 +5,7 @@ library(ggplot2)
 library(scales)
 library(ggrepel)
 
-usPop <- read_csv("/Users/jab/Downloads/population - states (4).csv") %>%
+usPop <- read_csv("data/pop4.csv") %>%
   mutate(stayHome = mdy(`Stay at home order`), `Stay at home order` = NULL,
          schoolsClosed = mdy(`Educational facilities closed`), `Educational facilities closed` = NULL,
          servicesClosed = mdy(`Non-essential services closed`), `Non-essential services closed` = NULL)

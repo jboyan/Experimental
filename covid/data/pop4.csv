@@ -1,0 +1,52 @@
+State,abbrev,Stay at home order,Educational facilities closed,Non-essential services closed,Pop density per mi2,Population,Land area in mi2,Governor,Party,Trump Vote,Clinton Vote,Trump Margin
+Alabama,AL,,3/19/2020,,95.9,"4,858,979","50,645",Kay Ivey,Republican,0.6208,0.3436,0.2772
+Alaska,AK,3/28/2020,3/16/2020,3/28/2020,1.3,"738,432","570,641",Mike Dunleavy,Republican,0.5128,0.3655,0.1473
+Arizona,AZ,3/30/2020,3/16/2020,,60.1,"6,828,065","113,594",Doug Ducey,Republican,0.4867,0.4513,0.0354
+Arkansas,AR,,3/17/2020,,57.2,"2,978,204","52,035",Asa Hutchinson,Republican,0.6057,0.3365,0.2692
+California,CA,3/19/2020,3/19/2020,3/19/2020,251.0,"39,144,818","155,959",Gavin Newsom,Democratic,0.3162,0.6173,-0.3011
+Colorado,CO,3/26/2020,3/23/2020,3/26/2020,52.6,"5,456,574","103,642",Jared Polis,Democratic,0.4325,0.4816,-0.0491
+Connecticut,CT,,3/17/2020,3/23/2020,741.6,"3,590,886","4,842",Ned Lamont,Democratic,0.4093,0.5457,-0.1364
+Delaware,DE,3/24/2020,3/16/2020,3/24/2020,485.3,"945,934","1,949",John Carney,Democratic,0.4172,0.5309,-0.1137
+District of Columbia,DC,3/30/2020,3/16/2020,3/25/2020,"11,020.1","672,228",61,Muriel Bowser,Democratic,0.0407,0.9048,-0.8641
+Florida,FL,4/1/2020,3/17/2020,,378.0,"20,271,272","53,625",Ron DeSantis,Republican,0.4902,0.4782,0.012
+Georgia,GA,,3/18/2020,,177.6,"10,214,860","57,513",Brian Kemp,Republican,0.5077,0.4564,0.0513
+Hawaii,HI,3/25/2020,3/19/2020,3/25/2020,222.9,"1,431,603","6,423",David Ige,Democratic,0.3003,0.6222,-0.3219
+Idaho,ID,3/25/2020,3/23/2020,3/25/2020,20.0,"1,654,930","82,643",Brad Little,Republican,0.5926,0.2749,0.3177
+Illinois,IL,3/21/2020,3/17/2020,3/21/2020,231.6,"12,859,995","55,519",J. B. Pritzker,Democratic,0.3876,0.5583,-0.1707
+Indiana,IN,3/25/2020,3/19/2020,3/24/2020,184.8,"6,619,680","35,826",Eric Holcomb,Republican,0.5682,0.3791,0.1891
+Iowa,IA,,,,55.9,"3,123,899","55,857",Kim Reynolds,Republican,0.5115,0.4174,0.0941
+Kansas,KS,3/30/2020,3/17/2020,,35.6,"2,911,641","81,759",Laura Kelly,Democratic,0.5665,0.3605,0.206
+Kentucky,KY,,3/20/2020,3/26/2020,112.1,"4,425,092","39,486",Andy Beshear,Democratic,0.6252,0.3268,0.2984
+Louisiana,LA,3/23/2020,3/16/2020,3/22/2020,108.1,"4,670,724","43,204",John Bel Edwards,Democratic,0.5809,0.3845,0.1964
+Maine,ME,4/2/2020,3/16/2020,3/25/2020,43.1,"1,329,328","30,843",Janet Mills,Democratic,0.4487,0.4783,-0.0296
+Maryland,MD,3/30/2020,3/16/2020,3/23/2020,618.8,"6,006,401","9,707",Larry Hogan,Republican,0.3391,0.6033,-0.2642
+Massachusetts,MA,,3/17/2020,3/24/2020,871.1,"6,794,422","7,800",Charlie Baker,Republican,0.3281,0.6001,-0.272
+Michigan,MI,3/24/2020,3/16/2020,3/23/2020,175.5,"9,922,576","56,539",Gretchen Whitmer,Democratic,0.475,0.4727,0.0023
+Minnesota,MN,3/27/2020,3/18/2020,,68.9,"5,489,594","79,627",Tim Walz,Democratic,0.4492,0.4644,-0.0152
+Mississippi,MS,,3/19/2020,,63.8,"2,992,333","46,923",Tate Reeves,Republican,0.5794,0.4011,0.1783
+Missouri,MO,,3/23/2020,,88.5,"6,083,672","68,742",Mike Parson,Republican,0.5677,0.3814,0.1863
+Montana,MT,3/26/2020,3/15/2020,3/26/2020,7.1,"1,032,949","145,546",Steve Bullock,Democratic,0.5617,0.3575,0.2042
+Nebraska,NE,,,,24.7,"1,896,190","76,824",Pete Ricketts,Republican,0.5875,0.337,0.2505
+Nevada,NV,,3/16/2020,3/20/2020,26.3,"2,890,845","109,781",Steve Sisolak,Democratic,0.4598,0.475,-0.0152
+New Hampshire,NH,3/27/2020,3/16/2020,3/27/2020,148.6,"1,330,608","8,953",Chris Sununu,Republican,0.4661,0.4698,-0.0037
+New Jersey,NJ,3/21/2020,3/18/2020,3/21/2020,"1,218.1","8,958,013","7,354",Phil Murphy,Democratic,0.41,0.5499,-0.1399
+New Mexico,NM,,3/13/2020,3/24/2020,17.2,"2,085,109","121,298",Michelle Lujan Grisham,Democratic,0.4004,0.4826,-0.0822
+New York,NY,3/22/2020,3/18/2020,3/20/2020,420.1,"19,795,791","47,126",Andrew Cuomo,Democratic,0.3652,0.5901,-0.2249
+North Carolina,NC,3/30/2020,3/14/2020,3/30/2020,206.6,"10,042,802","48,618",Roy Cooper,Democratic,0.4983,0.4617,0.0366
+North Dakota,ND,,3/16/2020,,11.0,"756,927","69,001",Doug Burgum,Republican,0.6296,0.2723,0.3573
+Ohio,OH,3/23/2020,3/16/2020,3/23/2020,284.2,"11,614,373","40,861",Mike DeWine,Republican,0.5169,0.4356,0.0813
+Oklahoma,OK,,3/17/2020,,57.0,"3,911,338","68,595",Kevin Stitt,Republican,0.6532,0.2893,0.3639
+Oregon,OR,3/23/2020,3/16/2020,,42.0,"4,028,977","95,988",Kate Brown,Democratic,0.3909,0.5007,-0.1098
+Pennsylvania,PA,3/23/2020,3/17/2020,3/23/2020,286.1,"12,802,503","44,743",Tom Wolf,Democratic,0.4818,0.4746,0.0072
+Rhode Island,RI,3/28/2020,3/16/2020,,"1,021.6","1,056,298","1,034",Gina Raimondo,Democratic,0.389,0.5441,-0.1551
+South Carolina,SC,,3/16/2020,,162.9,"4,896,146","30,061",Henry McMaster,Republican,0.5494,0.4067,0.1427
+South Dakota,SD,,3/16/2020,,11.3,"858,469","75,811",Kristi Noem,Republican,0.6153,0.3174,0.2979
+Tennessee,TN,,3/20/2020,3/30/2020,160.1,"6,600,299","41,235",Bill Lee,Republican,0.6072,0.3472,0.26
+Texas,TX,,3/19/2020,,105.2,"27,469,114","261,232",Greg Abbott,Republican,0.5223,0.4324,0.0899
+Utah,UT,,3/16/2020,,36.5,"2,995,919","82,170",Gary Herbert,Republican,0.4554,0.2746,0.1808
+Vermont,VT,3/24/2020,3/18/2020,3/25/2020,67.9,"626,042","9,217",Phil Scott,Republican,0.3027,0.5668,-0.2641
+Virginia,VA,3/30/2020,3/16/2020,,212.3,"8,382,993","39,490",Ralph Northam,Democratic,0.4441,0.4973,-0.0532
+Washington,WA,3/23/2020,3/13/2020,3/25/2020,107.9,"7,170,351","66,456",Jay Inslee,Democratic,0.3683,0.5254,-0.1571
+West Virginia,WV,3/25/2020,3/14/2020,3/24/2020,76.7,"1,844,128","24,038",Jim Justice,Republican,0.685,0.2643,0.4207
+Wisconsin,WI,3/25/2020,3/18/2020,3/25/2020,106.6,"5,771,337","54,158",Tony Evers,Democratic,0.4722,0.4645,0.0077
+Wyoming,WY,,3/19/2020,,6.0,"586,107","97,093",Mark Gordon,Republican,0.674,0.2163,0.4577
